@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBalta", "WebBalta\WebBalta.csproj", "{1DBCE58F-F8D8-49D8-B15F-38BBF0021A96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DBCE58F-F8D8-49D8-B15F-38BBF0021A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBCE58F-F8D8-49D8-B15F-38BBF0021A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBCE58F-F8D8-49D8-B15F-38BBF0021A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBCE58F-F8D8-49D8-B15F-38BBF0021A96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF3B8ED8-DF17-48C5-8D25-FCAF3308BBDC}
+	EndGlobalSection
+EndGlobal
